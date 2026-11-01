@@ -1,16 +1,17 @@
-## Hi there 👋
+I'm a Reverse Engineering enthusiast with a passion for game preservation.
 
-<!--
-**wzardz/wzardz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main focus is reverse engineering discontinued games, so I can decide to preserve them or re-release them at some point.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=wzardz&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/wzardz?label=Followers&style=for-the-badge&logo=github&color=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wzardz&layout=compact&theme=tokyonight&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[IMVU+](https://github.com/wzardz?tab=repositories&q=IMVU)**
+- **[Ironsight](https://github.com/wzardz?tab=repositories&q=Ironsight)**
+- **[Line of Sight](https://github.com/wzardz?tab=repositories&q=Line+of+Sight)**
+- **[A.V.A](https://github.com/wzardz?tab=repositories&q=A.V.A)**
+- **[S4 League](https://github.com/wzardz?tab=repositories&q=S4+League)**
+
+
