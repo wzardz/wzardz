@@ -1,4 +1,4 @@
-I'm a Reverse Engineering enthusiast with a passion for game preservation.
+I'm a Reverse Engineering enthusiast, reverse engineering my childhood games to study the game, server architecture/behavior, and create my own servers to revive them!
 
 My main focus is reverse engineering discontinued games, so I can decide to preserve them or re-release them at some point.
 
