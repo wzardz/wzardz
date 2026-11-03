@@ -8,10 +8,10 @@ My main focus is reverse engineering discontinued games, so I can decide to pres
 
 ## Projects
 
-- **[IMVU+](https://github.com/wzardz?tab=repositories&q=IMVU)**
-- **[Ironsight](https://github.com/wzardz?tab=repositories&q=Ironsight)**
-- **[Line of Sight](https://github.com/wzardz?tab=repositories&q=Line+of+Sight)**
-- **[A.V.A](https://github.com/wzardz?tab=repositories&q=A.V.A)**
-- **[S4 League](https://github.com/wzardz?tab=repositories&q=S4+League)**
+- **[IMVU+](https://github.com/wzardz/MVU)**
+- **[Ironsight](https://github.com/wzardz/Ironsight)**
+- **[Line of Sight](https://github.com/wzardz/LineOfSight)**
+- **[A.V.A](https://github.com/wzardz/AVA)**
+- **[S4 League](https://github.com/wzardz/S4League)**
 
 
